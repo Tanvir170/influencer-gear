@@ -1,0 +1,14 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 10%;
+}
+nav a {
+    font-size: 1em;
+    text-decoration: none;
+    color: black;
+    margin-right: 40px;
+    font-weight: 700;
+
+}
