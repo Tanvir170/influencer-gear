@@ -1,3 +1,13 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.h2-tag{
+    margin-left: -60px;
+}
+h1{
+    font-size: 50px;
+}
+
 header{
     display: flex;
     justify-content: space-between;
@@ -11,4 +21,21 @@ nav a {
     margin-right: 40px;
     font-weight: 700;
 
+}
+section{
+    display: flex;
+}
+.start-journey{
+    width: 50%;
+    padding-left: 5%;
+}
+.start-journey img {
+    width: 70%;
+}
+.button{
+    text-decoration: none;
+    background-color: rgb(153, 10, 58);
+    padding: 10px 40px;
+    border-radius: 30px;
+    color: white;
 }
